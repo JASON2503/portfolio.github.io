@@ -92,7 +92,7 @@ span{
         transform:  translateY(0);
     }
     50%{
-        transform:  translateX(-2.4rem);
+        transform:  translateY(-2.4rem);
     }
     100%{
         transform:  translateY(0);
@@ -275,7 +275,7 @@ span{
 }
 .contact h2{
     font-size: 2rem ;
-    color: var(--snd-bf-color);
+    color: var(--text-color);
 }
 .contact form{
     max-width: 70rem;
